@@ -2,7 +2,7 @@
 
 ## Let me see
 
-\[\int_{\partial \omega} = \int_{\omega}dF\]
+$$\int_{\partial \omega} = \int_{\omega}dF$$
 
 ```sql
 select *

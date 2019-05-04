@@ -17,3 +17,11 @@ import pandas as pd
 
 from collections import deque, Counter
 ```
+
+<div class="mermaid">
+graph TD;
+    A--&gt;B;
+    A--&gt;C;
+    B--&gt;D;
+    C--&gt;D;
+</div>

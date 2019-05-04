@@ -2,7 +2,7 @@
 
 ## Let me see
 
-$$\int_{\partial \omega} = \int_{\omega}dF$$
+\[\int_{\partial \omega} = \int_{\omega}dF\]
 
 ```sql
 select *
@@ -11,16 +11,6 @@ where condition;
 ```
 
 ```python
-import os
-import subprocess
-import glob
-import string
-import re
-import json
-import gzip
-import itertools
-import pprint
-
 import datetime as dt
 import numpy as np
 import pandas as pd

@@ -3,5 +3,6 @@ logo:
 description: I had to wait for github to do this!
 show_downloads: true
 markdown: kramdown
+mathjax: true
 google_analytics:
 theme: jekyll-theme-minimal

@@ -1,3 +1,4 @@
+---
 layout: post
 title: Tipan Verella's webpage
 logo:
@@ -7,3 +8,4 @@ markdown: kramdown
 mathjax: true
 google_analytics:
 theme: jekyll-theme-minimal
+---

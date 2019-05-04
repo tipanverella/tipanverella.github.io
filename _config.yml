@@ -1,1 +1,6 @@
+title: Minimal theme
+logo:
+description: Minimal Theme for Tipan
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal

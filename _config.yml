@@ -7,6 +7,7 @@ markdown: kramdown
 google_analytics:
 theme: jekyll-theme-minimal
 email: tipan.verella@gmail.com
+highlightjs_theme: "monokai-sublime"
 
 rdiscount:
   extensions        : []

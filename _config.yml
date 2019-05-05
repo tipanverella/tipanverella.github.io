@@ -7,3 +7,4 @@ markdown: kramdown
 mathjax: true
 google_analytics:
 theme: jekyll-theme-minimal
+twitter: @tipanverella

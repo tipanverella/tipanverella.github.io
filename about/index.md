@@ -5,4 +5,4 @@
 - I am passionate about probability and graph theory; mathematics in general.
 - I am also passionate about social justice, and cultural heritage and how they are impacted by technology.
 - I write [python](https://www.python.org) to compute stuff.
-- My son write [pokemon fan fiction](pokemon/)
+- My son write [pokemon fan fiction](../pokemon/)

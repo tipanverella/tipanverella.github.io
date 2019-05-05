@@ -4,7 +4,6 @@ logo: images/tipan_child.jpg
 description: I had to wait for github to do this!
 show_downloads: true
 markdown: kramdown
-mathjax: true
 google_analytics:
 theme: jekyll-theme-minimal
 twitter: tipanverella
@@ -17,6 +16,7 @@ redcarpet:
   extensions        : []
 
 kramdown:
+  math_engine       : mathjax
   auto_ids          : true
   entity_output     : as_char
   toc_levels        : 1..6

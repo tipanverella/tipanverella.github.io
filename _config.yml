@@ -6,7 +6,6 @@ show_downloads: true
 markdown: kramdown
 google_analytics:
 theme: jekyll-theme-minimal
-twitter: tipanverella
 email: tipan.verella@gmail.com
 
 rdiscount:
@@ -25,3 +24,11 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+social:
+  - name: Twitter
+    icon: twitter
+    username: tipanverella
+    url:
+    desc: Follow me on Twitter
+    share: true

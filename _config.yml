@@ -1,5 +1,5 @@
 layout: post
-title: Tipan Verella's webpage
+title: Tipan's Webpage
 logo: images/tipan_child.jpg
 description: I had to wait for github to do this!
 show_downloads: true
@@ -7,4 +7,5 @@ markdown: kramdown
 mathjax: true
 google_analytics:
 theme: jekyll-theme-minimal
-twitter: @tipanverella
+twitter: tipanverella
+email: tipan.verella@gmail.com

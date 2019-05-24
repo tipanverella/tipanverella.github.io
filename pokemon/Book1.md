@@ -14,8 +14,13 @@ rocket! Its a cosmog chimchar use fire spin now use flare pokeball go i got cosm
  Torracat use fire fang says Surge. Litten use flame charge says Wyatt. Torracat is unable to battle litten wins says the
  judge. I won a badge says Wyatt. 
 
-#                                             The end                                                       
+#                                             The end      
 
+![](https://vignette.wikia.nocookie.net/pokemon/images/7/76/390Chimchar.png/revision/latest?cb=20141229230356)
+Caught by Ibo
 
+![](https://vignette.wikia.nocookie.net/pokemon-reborn/images/0/09/LittenArt.png/revision/latest?cb=20180119212740)
+Caught by Wyatt
 
-                                                          
+![](https://assets.pokemon.com/assets/cms2/img/pokedex/full/789.png)
+Caught by Ibo

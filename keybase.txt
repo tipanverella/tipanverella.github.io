@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tipanverella
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tipanverella.github.io
+  * I am tipanverella (https://keybase.io/tipanverella) on keybase.
+  * I have a public key ASBZGMaj479qLM5bErts6vAbMkfOJqRIR6YaLD10I6JHqAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205918c6a3e3bf6a2cce5b12bb6ceaf01b3247ce26a44847a61a2c3d7423a247a80a",
+      "host": "keybase.io",
+      "kid": "01205918c6a3e3bf6a2cce5b12bb6ceaf01b3247ce26a44847a61a2c3d7423a247a80a",
+      "uid": "2755a52de8a99c70d5ad4329504fb219",
+      "username": "tipanverella"
+    },
+    "merkle_root": {
+      "ctime": 1558989554,
+      "hash": "ee80adede2ec082f067624397d6347902e2c3741dbfa411ea4f683841277755e11221b3f1c066af3d6700e35ffd94b1d8a8c89458dd46e060045563f2a7533b2",
+      "hash_meta": "b17e0970b9dbb450ee071b113b5df350711cd9f6293ddd06e9f62e069494b6aa",
+      "seqno": 5457200
+    },
+    "service": {
+      "entropy": "HXMLdi7WXsylvBMeVetVNnuC",
+      "hostname": "tipanverella.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558989590,
+  "expire_in": 504576000,
+  "prev": "de84194e5a039b3d0c9bc99d5ae5915b37f9856db5ee7cbed0cfece0fcbbc0e9",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWRjGo+O/aizOWxK7bOrwGzJHziakSEemGiw9dCOiR6gKp3BheWxvYWTESpcCCMQg3oQZTloDmz0Mm8mdWuWRWzf5hW217ny+0M/s4Py7wOnEIJ8PlONeR7vgGesvojbno2RONM7tKueSPQEEAuEl370VAgHCo3NpZ8RACu/gCcqZSXmX6CByP1Urg+SQMr4hbFGI5iBoGSnVSckJOKm8Allml0e8K2D03rQwQwUdh2AtX8er/2yeu/qKC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILh6yLDxhk6dOii5V4lcITiiQC7C2GbCMuWjg8GRAhrDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tipanverella
+
+==================================================================
